@@ -11,10 +11,10 @@ import twitter4j.*;
  
 String msg = "たすけて";
  
-String consumerKey = "lI5qulQJ6Vb0O1oMP6vto13y5";
-String consumerSecret = "QQe4hLinfjC840m1rdIxUemv2aihjyzxPFMQMwCcltsNcUIRCS";
-String accessToken = "3145665278-GtmihU22LRZpiVzZHdbFsMD3JKdMVY2u39stiaW";
-String accessSecret = "e1PZQ48qodxd0zlOpQ6Sd1EUNHis6lct23A8zOZlHcBQs";
+String consumerKey = "";
+String consumerSecret = "";
+String accessToken = "";
+String accessSecret = "";
 Twitter myTwitter;
  
 int ms;
